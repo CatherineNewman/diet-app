@@ -11,3 +11,5 @@ Suggestions from the community:
 6. Keep user-entered data in a separate table so that the main table does not contain incorrect data
 7. Ability to set target macros by day or for a special day
 8. Only display net carbs - total confuses newbies
+9. Track body measurements and allow users to add custom measurements
+10. Calculate and track BMI
