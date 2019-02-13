@@ -13,3 +13,9 @@ Suggestions from the community:
 8. Only display net carbs - total confuses newbies
 9. Track body measurements and allow users to add custom measurements
 10. Calculate and track BMI
+11. Ability to create recipes
+12. Ability to add recipes to the day
+13. Weekly meal planner
+14. Suggested fasts e.g. egg fast, beef and butter etc
+15. Tips - suggested recipes with remaining macro allowance, what to eat when you're out of carbs/protein allowance
+16. A few basic recipes that I have made and tested e.g. microwave mug bread
