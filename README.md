@@ -19,3 +19,5 @@ Suggestions from the community:
 14. Suggested fasts e.g. egg fast, beef and butter etc
 15. Tips - suggested recipes with remaining macro allowance, what to eat when you're out of carbs/protein allowance
 16. A few basic recipes that I have made and tested e.g. microwave mug bread
+17. Easy food lists - similar to the Banting red/orange/green lists
+18. Shopping list - linked to weekly menu planner
