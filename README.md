@@ -21,3 +21,4 @@ Suggestions from the community:
 16. A few basic recipes that I have made and tested e.g. microwave mug bread
 17. Easy food lists - similar to the Banting red/orange/green lists
 18. Shopping list - linked to weekly menu planner
+19. Ability to add photos in order to visually track progress
