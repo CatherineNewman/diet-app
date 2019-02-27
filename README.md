@@ -23,4 +23,6 @@ Suggestions from the community:
 18. Shopping list - linked to weekly menu planner
 19. Ability to add photos in order to visually track progress
 20. Ability to print recipes/meal plans
-21. Ability to print shopping list
+21. Ability to print shopping list 
+
+**Built using [Zaro](https://zpps.zaro.io, "Zaro")**
