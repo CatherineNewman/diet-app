@@ -1,5 +1,5 @@
 # diet-app
-App for keto/LCH/banting. Tracking, food lookups, graphs
+App for keto/LCHF/banting. Tracking, food lookups, graphs
 
 Suggestions from the community:
 1.  Adjust macros by grams as well as percentage
