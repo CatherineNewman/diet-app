@@ -25,4 +25,4 @@ Suggestions from the community:
 20. Ability to print recipes/meal plans
 21. Ability to print shopping list 
 
-**Built using [Zaro](https://zpps.zaro.io, "Zaro")**
+**Built using [Zaro](https://apps.zaro.io, "Zaro")**
