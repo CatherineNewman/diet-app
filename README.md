@@ -22,3 +22,5 @@ Suggestions from the community:
 17. Easy food lists - similar to the Banting red/orange/green lists
 18. Shopping list - linked to weekly menu planner
 19. Ability to add photos in order to visually track progress
+20. Ability to print recipes/meal plans
+21. Ability to print shopping list
